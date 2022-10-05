@@ -2,7 +2,7 @@
   <h2 align="center">Welcome to my Profile</h2>
 </p>
 
-<img src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=aura">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=aura">
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoxas&layout=compact&theme=transparent">-->
 
 <h3>Hello I'm <a href="https://github.com/hoxas">@hoxas</a></h3>
