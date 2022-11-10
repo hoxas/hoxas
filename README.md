@@ -5,7 +5,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=aura">
 <!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoxas&layout=compact&theme=transparent">-->
 
-<h3>Hello I'm <a href="https://github.com/hoxas">@hoxas</a></h3>
+<h3>Hello I'm <a href="https://github.com/hoxas">Alice</a></h3>
 <p>Beginner Back-end Developer</p>
 <h3> 👨‍💻 Languages and Tools </h3>
 <p>
