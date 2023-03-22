@@ -1,10 +1,6 @@
-<p align="center">
-  <img src="./header.gif">
-  <h2 align="center">Alice Katherine 🏳️‍⚧️</h2>
-</p>
+<img align="center" src="./header.gif">
 
-<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cinzel+Decorative">
-<h1 align="center" style="font-family: 'Cinzel Decorative', sans-serif;">Alice Katherine</h1>
+##
 
 <p>Beginner Back-end Developer</p>
 
