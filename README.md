@@ -2,13 +2,14 @@
   <h2 align="center">Alice Katherine 🏳️‍⚧️</h2>
 </p>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=transparent">
-<!--<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoxas&layout=compact&theme=transparent">-->
-
 <p>Beginner Back-end Developer</p>
+
+##
+
+
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=transparent">
 <h3> 👨‍💻 Languages and Tools </h3>
 <p>
-
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50">
 <img src="https://img.icons8.com/nolan/256/flask.png" width="50">
@@ -27,8 +28,8 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50">
+</p>
 
-  
 
 
 ##
