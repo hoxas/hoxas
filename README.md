@@ -20,7 +20,7 @@
 ![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
 <details>
   <summary>My Month in Music</summary>
-  <img src="https://tapmusic.net/collage.php?user=kathAlice&type=1month&size=6x6&caption=true">
+  <img src="https://tapmusic.net/collage.php?user=kathAlice&type=1month&size=10x10&caption=true">
 </details>
 
 
