@@ -2,7 +2,15 @@
 
 ##
 
-<p>Beginner Back-end Developer</p>
+**About Me**
+
+- 💻 Beginner Back-end Developer
+- 🏳️‍⚧️ Trans girl
+- 🔧 Currently building [Stocks](https://github.com/hoxas/stocks)
+- 🌱 Looking to learn more about *Software Architecture* and [Rust](https://www.rust-lang.org/)
+- 🎼 I love listening to and making music 💕
+- 🎮 Lately I've been playing *Red Dead Redemption 2* & *Rocket League*
+
 
 ##
 
@@ -34,7 +42,7 @@
 ![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
 
 <details>
-  <summary>My Month in Music</summary>
+  <summary><b>My Month in Music</b></summary>
   <img src="https://tapmusic.net/collage.php?user=kathAlice&type=1month&size=10x10&caption=true">
 </details>
 
