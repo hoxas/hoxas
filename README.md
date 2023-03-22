@@ -1,6 +1,6 @@
-<p align="center">
-  <h2 align="center">Alice Katherine 🏳️‍⚧️</h2>
-</p>
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Cinzel+Decorative">
+<h1 align="center" style="font-family: 'Cinzel Decorative', sans-serif;">Alice Katherine</h1>
+
 
 <p>Beginner Back-end Developer</p>
 
