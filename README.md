@@ -31,7 +31,6 @@
 </p>
 
 
-
 ##
 
 ![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
