@@ -1,5 +1,5 @@
 <p align="center">
-  <h2 align="center">Welcome to my Profile</h2>
+  <h2 align="center">Alice Katherine 🏳️‍⚧️</h2>
 </p>
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=transparent">
@@ -12,11 +12,17 @@
 
 <br>
 <br>
+<br>
 
 
-## Music
+##
 
-![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice)
+![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
+<details>
+  <summary>My Month in Music</summary>
+  <img src="https://tapmusic.net/collage.php?user=kathAlice&type=1month&size=6x6&caption=true">
+</details>
+
 
   
 <!-- 
