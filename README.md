@@ -14,7 +14,7 @@
 
 ##
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=transparent">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=midnight-purple">
 <h3> 👨‍💻 Languages and Tools </h3>
 <p>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50">
