@@ -43,7 +43,7 @@
 
 <details>
   <summary><b>My Month in Music</b></summary>
-  <img src="https://tapmusic.net/collage.php?user=kathAlice&type=1month&size=10x10&caption=true&">
+  <img src="https://tapmusic.net/collage.php?user=kathAlice&type=1month&size=10x10&caption=true">
 </details>
 
 <!--
