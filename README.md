@@ -41,12 +41,14 @@
 
 ![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
 
+
 <details>
   <summary><b>My Month in Music</b></summary>
-  <img src="https://tapmusic.net/collage.php?user=kathAlice&type=1month&size=10x10&caption=true">
+  <img src="https://lastfm-charter.vercel.app/api/month/10x10">
 </details>
 
 <!--
+
 Node:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="50">
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
