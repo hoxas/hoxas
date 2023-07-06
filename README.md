@@ -38,7 +38,7 @@
 </p>
 
 ##
-
+<!--
 ![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
 
 
@@ -46,8 +46,6 @@
   <summary><b>My Month in Music</b></summary>
   <img src="https://lastfm-charter.vercel.app/api/month/10x10">
 </details>
-
-<!--
 
 Node:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="50">
