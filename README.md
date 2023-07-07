@@ -38,7 +38,6 @@
 </p>
 
 ##
-<!--
 ![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
 
 
@@ -47,6 +46,7 @@
   <img src="https://lastfm-charter.vercel.app/api/month/10x10">
 </details>
 
+<!--
 Node:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-plain-wordmark.svg" width="50">
 <img src="https://media3.giphy.com/media/kdFc8fubgS31b8DsVu/giphy.webp" width="50">
