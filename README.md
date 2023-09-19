@@ -37,12 +37,12 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" width="50">
 </p>
 
-##
-![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
 
 
 
 <!--
+##
+![Now Playing](https://lastfm-profile-readme.vercel.app/api/kathAlice?isRounded=True)
 <details>
   <summary><b>My Month in Music</b></summary>
   <img src="https://lastfm-charter.vercel.app/api/month/10x10">
