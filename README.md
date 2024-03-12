@@ -4,7 +4,7 @@
 
 **About Me**
 
-- 💻 Beginner Back-end Developer
+- 💻 Full Stack Developer
 - 🏳️‍⚧️ Trans girl
 - 🔧 Currently building [Stocks](https://github.com/hoxas/stocks)
 - 🌱 Looking to learn more about *Software Architecture* and [Rust](https://www.rust-lang.org/)
