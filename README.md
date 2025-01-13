@@ -16,7 +16,7 @@
 
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=hoxas&show_icons=true&theme=midnight-purple">
 <h3> 👨‍💻 Languages and Tools </h3>
-<p>
+<p style="flex">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg" width="50">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain-wordmark.svg" width="50">
 <img src="https://img.icons8.com/nolan/256/flask.png" width="50">
